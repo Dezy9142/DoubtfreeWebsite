@@ -1,0 +1,166 @@
+h1{
+	background:#0A1612;
+		color:white;
+	text-align: center;
+	font-family: monospace;
+	font-size:60px;
+	height:100px;
+	font-weight:bold;
+	margin-top: 0px;
+	
+}
+h2{
+	 background:#FFFACD;
+		color:black;
+	text-align: center;
+	font-family: monospace;
+	font-size:30px;
+	height:100px;
+	font-weight:bold;
+	margin-top: 0px;
+	mix-blend-mode: 
+}
+nav{
+	background-color:#FFFF66;	 ;
+	font-family: monospace;
+	font-size: 20px;
+	height:50px;
+	text-align:left;
+	color:pink;
+	margin-top:0px;
+	font-weight:bold;
+
+
+
+}
+a:hover{
+	color:white;
+	text-decoration:blink;
+     
+}
+[class*="col-"] {
+    width: 100%;
+  }
+}
+.topnav{
+	text-align: center;
+	align-self: top;
+	font-size: 20px;
+}
+
+a{
+	font-size:20px;
+	color:black;
+}
+.pfor{
+	font-size:20px;
+	font-weight:bold;
+	opacity:0.5;
+}
+body{
+	background:#FFFACD;
+}
+@media screen and (min-width: 370){
+	p{
+		font-family:monospace;
+	text-align:center;
+	font-weight:bold;
+	font-size:10px;
+	opacity:0.5;
+	margin-top: px;
+}
+	}
+
+
+
+p{
+	font-family:monospace;
+	text-align:center;
+	font-weight:bold;
+	font-size:40px;
+	opacity:0.5;
+	margin-top: px;
+}
+.pf{
+	font-size:40px;
+	opacity:0.5;
+	font-weight:bold;
+	text-align:center;
+}
+.img{
+	max-height: 200px;
+	max-width:200px;
+	border-radius: 10px;
+	margin-left: 50px;
+	display:inline-block;
+ aspect-ratio: auto 1200 / 370;
+
+
+}
+.img1{
+	max-height: 500px;
+	max-width:500px;
+	border-radius: 10px;
+	margin-left: 50px;
+	display:inline-block;
+
+
+}
+.pm{
+color:black;
+opacity:0.7;
+font-family:monospace;
+font-size:14;
+font-weight:bold;
+}
+.pdf{
+	text-align: center;
+	font-family:monospace;
+	font-size:20;
+	font-weight:bold;
+}
+
+.text{
+	font-family: monospace;
+	font-size:20px;
+	word-spacing: 200px;
+	margin-top: 100px;
+	margin-left: 150px
+	margin-right:150px;
+	text-align: center;
+    font-weight:bold;
+	
+	
+}
+
+
+.google{align-self: center;
+
+}
+{
+  box-sizing: border-box;
+}
+
+{
+  box-sizing: border-box;
+}
+{
+  box-sizing: border-box;
+}
+{
+  box-sizing: border-box;
+}
+.button{
+	background-color: #1E90FF; /* Green */
+  border-radius:10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 5%;
+  font-family: monospace;
+  font-weight:bold;
+
+}
